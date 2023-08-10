@@ -1,2 +1,6 @@
 src/main/java/com/ssamz/biz/common/*.java
 build/
+*.war
+*.project
+*.classpath
+.settings/
